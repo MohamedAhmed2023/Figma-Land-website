@@ -14,12 +14,12 @@ function Gallery() {
             <HeadingText Heading="Gallery" description="We focus on ergonomics and meeting you where you work. It's only a keystroke away." />
             <div className="gallery-container">
                 <div className="gallery-content">
-                    <img src={card1}></img>
-                    <img src={card2}></img>
-                    <img src={card3}></img>
-                    <img src={card4}></img>
-                    <img src={card5}></img>
-                    <img src={card7}></img>
+                    <img src={card1} alt=""></img>
+                    <img src={card2} alt=""></img>
+                    <img src={card3} alt=""></img>
+                    <img src={card4} alt=""></img>
+                    <img src={card5} alt=""></img>
+                    <img src={card7} alt=""></img>
                 </div>
             </div>
             <button className="Btn-gallery">

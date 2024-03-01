@@ -6,7 +6,7 @@ function Testimonials(props) {
             <div className="Testimonials-container">
                 <div className="Testimonials">
                     <div className="upper">
-                        <img src={props.img}></img>
+                        <img src={props.img} alt=""></img>
                         <span>{props.name}</span>
                     </div>
                     <div className="lower">

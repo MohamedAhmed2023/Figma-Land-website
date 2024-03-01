@@ -11,12 +11,12 @@ function Feature() {
                 <HeadingText Heading="FEATURES" description="We focus on ergonomics and meeting you where you work. It's only a keystroke away." />
                 <div className="Feature-container">
                     <div className="feature-left">
-                        <img src={chat}></img>
+                        <img src={chat} alt=""></img>
                     </div>
                     <div className="feature-right">
                         <div className="content-right">
                             <div className="upper">
-                                <img src={vector1}></img>
+                                <img src={vector1} alt=""></img>
                                 <span>
                                     A single source of truth
                                 </span>
@@ -27,7 +27,7 @@ function Feature() {
                         </div>
                         <div className="content-right">
                             <div className="upper">
-                                <img src={vector2}></img>
+                                <img src={vector2} alt=""></img>
                                 <span>Intuitive interface</span>
                             </div>
                             <div className="lower">
@@ -36,7 +36,7 @@ function Feature() {
                         </div>
                         <div className="content-right">
                             <div className="upper">
-                                <img src={vector3}></img>
+                                <img src={vector3} alt=""></img>
                                 <span>Or with rules</span>
                             </div>
                             <div className="lower">

@@ -12,7 +12,7 @@ function Contact() {
                     <h4>Work</h4>
                     <p>Ever wondered if you're too reliant<br />  on a client for work? Slate helps <br />  you identify .</p>
                     <button type="button">Sign Up</button>
-                    <img className="img-contect" src={mac}></img>
+                    <img className="img-contect" src={mac} alt="mohamed"></img>
                 </div>
                 <div className="contect-content">
                     <h4>Design with real data</h4>
@@ -20,7 +20,7 @@ function Contact() {
                         on a client for work? Slate helps<br />
                         you identify .</p>
                     <button type="button">Try For Free</button>
-                    <img className="img-contect" src={board}></img>
+                    <img className="img-contect" src={board} alt=""></img>
                 </div>
             </div>
         </>

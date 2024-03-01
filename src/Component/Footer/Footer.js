@@ -40,17 +40,17 @@ function Footer(props) {
                 </div>
                 <div className="right">
                     <div className="upper-footer">
-                        <img src={img1}></img>
+                        <img src={img1} alt=""></img>
                         <span>7480 Mockingbird Hill undefined </span>
                     </div>
                     <div className="upper-footer">
-                        <img className="img1" src={img2}></img>
+                        <img className="img1" src={img2} alt=""></img>
                         <span>(239) 555-0108</span>
                     </div>
                     <div className="lower">
-                        <img src={img3}></img>
-                        <img src={img4}></img>
-                        <img src={img5}></img>
+                        <img src={img3} alt=""></img>
+                        <img src={img4} alt=""></img>
+                        <img src={img5} alt=""></img>
                     </div>
                 </div>
             </div >
