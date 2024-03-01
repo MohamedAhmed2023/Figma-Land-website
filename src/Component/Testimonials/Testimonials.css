@@ -1,0 +1,33 @@
+.Testimonials-container {
+    display: flex;
+    justify-content: space-around;
+    flex-shrink: 1;
+    width: 80%;
+    margin: auto;
+    gap: 20px;
+    padding-bottom: 80px;
+}
+
+.Testimonials {
+    color: #fff;
+    text-align: start;
+    padding: 20px;
+    border: 1px solid#ccc;
+    margin: 0 10px;
+    border-radius: 10px;
+}
+
+@media (max-width:992px) {
+    .Testimonials-container {
+        display: flex;
+        flex-direction: column;
+        width: 90%;
+        margin: auto;
+    }
+
+    .Testimonials {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+}
