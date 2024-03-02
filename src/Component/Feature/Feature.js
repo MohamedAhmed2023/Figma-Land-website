@@ -45,7 +45,7 @@ function Feature() {
                         </div>
                     </div>
                 </div>
-            </div>
+            </div >
         </>
     )
 }
